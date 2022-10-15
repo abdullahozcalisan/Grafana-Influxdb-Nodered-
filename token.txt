@@ -1,0 +1,2 @@
+owm = 113ffe3b5cda7358d3dc070449afc6b8
+influx = I6vUErc-HXgOOJLGsALAn7Vddiug-ULjJv3EW7g8L1iRMwBZTtvnSWd0ilBStfZ-FIyBzvHHgD9mmDssmPSZnA==
